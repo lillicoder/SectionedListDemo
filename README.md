@@ -6,7 +6,7 @@ use of data structures that support 1 level deep relationships.
 
 --License--
 
-Copyright 2014 Scott Weeden-Moody
+Copyright 2015 Scott Weeden-Moody
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at
 
