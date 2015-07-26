@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2014 Scott Weeden-Moody
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">SectionedListDemo</string>
+
+    <string name="menu_disable_fast_scroller">Disable Fast Scroller</string>
+    <string name="menu_enable_fast_scroller">Enable Fast Scroller</string>
+
+    <string-array name="animals">
+        <item>Aardvark</item>
+        <item>Albatross</item>
+        <item>Antelope</item>
+        <item>Bat</item>
+        <item>Bear</item>
+        <item>Bonobo</item>
+        <item>Camel</item>
+        <item>Cheetah</item>
+        <item>Crocodile</item>
+        <item>Dingo</item>
+        <item>Dolphin</item>
+        <item>Duck</item>
+        <item>Eagle</item>
+        <item>Elephant</item>
+        <item>Emu</item>
+        <item>Falcon</item>
+        <item>Flamingo</item>
+        <item>Frog</item>
+        <item>Gecko</item>
+        <item>Giraffe</item>
+        <item>Gopher</item>
+        <item>Hedgehog</item>
+        <item>Horse</item>
+        <item>Hyena</item>
+        <item>Ibex</item>
+        <item>Ibis</item>
+        <item>Iguana</item>
+        <item>Jackal</item>
+        <item>Jaguar</item>
+        <item>Jellyfish</item>
+        <item>Kangaroo</item>
+        <item>Kiwi</item>
+        <item>Koala</item>
+        <item>Lemur</item>
+        <item>Llama</item>
+        <item>Lobster</item>
+        <item>Manatee</item>
+        <item>Meerkat</item>
+        <item>Mole</item>
+        <item>Narwhal</item>
+        <item>Newt</item>
+        <item>Nightingale</item>
+        <item>Ocelot</item>
+        <item>Octopus</item>
+        <item>Orangutan</item>
+        <item>Parrot</item>
+        <item>Penguin</item>
+        <item>Piranha</item>
+        <item>Quahog</item>
+        <item>Quail</item>
+        <item>Quetzal</item>
+        <item>Rabbit</item>
+        <item>Roadrunner</item>
+        <item>Rooster</item>
+        <item>Sea Pig</item>
+        <item>Sheep</item>
+        <item>Sloth</item>
+        <item>Tarsier</item>
+        <item>Tiger</item>
+        <item>Turtle</item>
+        <item>Uakari</item>
+        <item>Unicorn</item>
+        <item>Urchin</item>
+        <item>Vicuña</item>
+        <item>Vole</item>
+        <item>Vulture</item>
+        <item>Walrus</item>
+        <item>Weasal</item>
+        <item>Wombat</item>
+        <item>X-Ray Tetra</item>
+        <item>Xantis</item>
+        <item>Xiaosaurus</item>
+        <item>Yak</item>
+        <item>Yapok</item>
+        <item>Ynambu</item>
+        <item>Zebra</item>
+        <item>Zebu</item>
+        <item>Zyzzyva</item>
+    </string-array>
+
+</resources>
